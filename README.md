@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
- <h3><b>Awesome-book is my demo project for learning  js object and arrays , it has new es6 syntax</b></h3>
+ <h3><b>Awesome-book is my demo project for learning  js object and arrays </b></h3>
 
 </div>
 
